@@ -1,4 +1,4 @@
-# JNettli's- Portfolio
+# JNettli's Portfolio
 
 Welcome to the repository for my personal portfolio website. This site showcases my work, skills, and projects I've been involved in.
 
