@@ -1,3 +1,5 @@
+// Cool Rainbow thang
+
 const syncPointer = ({ x: pointerX, y: pointerY }) => {
     const x = pointerX.toFixed(2);
     const y = pointerY.toFixed(2);
@@ -9,6 +11,16 @@ const syncPointer = ({ x: pointerX, y: pointerY }) => {
     document.documentElement.style.setProperty("--yp", yp);
 };
 document.body.addEventListener("pointermove", syncPointer);
+
+// Scroll Button
+
+document.getElementById("scrollButton").addEventListener("click", () => {
+    document.getElementById("bigBox").scrollIntoView({ behavior: "smooth" });
+});
+
+document.getElementById("scrollButton2").addEventListener("click", () => {
+    document.getElementById("bigBox").scrollIntoView({ behavior: "smooth" });
+});
 
 // Splash Screen
 
