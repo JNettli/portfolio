@@ -10,7 +10,7 @@ This portfolio is a reflection of my professional journey and the work that I'm 
 
 ## Screenshot
 <div>
-  <a href="assets/readme/screenshot.jpg">
+  <a href="assets/readme/portfolio.png">
     <img src="assets/readme/portfolio.png" alt="Portfolio image" width="60%"/>
   </a>
 </div>
