@@ -8,9 +8,9 @@ Welcome to the repository for my personal portfolio website. This site showcases
 Hi, I'm Jonas Nettli, a Front-End Developer based in Heggedal, Norway. I have a passion for Front-End Development and a knack for blending aesthetics with functionality! 
 This portfolio is a reflection of my professional journey and the work that I'm proud of.
 
-## Screenshot
+## Screenshot (Click on image to go to the website!)
 <div>
-  <a href="assets/readme/portfolio.png">
+  <a href="https://jnettli.netlify.app" target="_blank">
     <img src="assets/readme/portfolio.png" alt="Portfolio image" width="60%"/>
   </a>
 </div>
